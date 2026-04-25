@@ -1,0 +1,1 @@
+Just a small project for me to learn Javascript, HTML5, and CSS with. Don't expect too many updates.
